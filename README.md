@@ -16,6 +16,7 @@ Displays the extracted data in a structured format, and Saves the output in a JS
 
 ## Technolgies used:
 **Programming Language:** Python (3.x)
+
 **Libraries Used:**
 * requests for fetching web content
 * BeautifulSoup or Scrapy for HTML parsing
