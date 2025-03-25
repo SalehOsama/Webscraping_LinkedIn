@@ -21,6 +21,6 @@ Displays the extracted data in a structured format, and Saves the output in a JS
 * BeautifulSoup or Scrapy for HTML parsing
 * selenium to by pass authentication.
 
-**Additional Considerations:**
+## Additional Considerations:
 Used Selenium to by pass authentication and rendered content needs to be loaded.
 As LinkedIn tracks the frequent requests, and has a strong anti webscraping policy, Implemented user-agent rotation to reduce detection risks.
